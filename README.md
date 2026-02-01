@@ -6,7 +6,7 @@ App de entrenamiento por intervalos (HIIT/Tabata) para iOS, construida con Swift
 
 - **5 fases de entrenamiento**: Preparación, Trabajo, Descanso, Enfriamiento, Completado
 - **Timer preciso**: Motor basado en Combine con `Timer.publish`
-- **UI de alto contraste**: Números gigantes y colores vibrantes por fase
+- **UI de alto contraste**: Números grandes y colores vibrantes por fase
 - **Feedback háptico**: Vibraciones contextuales en countdown y transiciones
 - **Audio**: Sonidos distintivos para cada cambio de fase
 - **Soporte background**: El timer continúa con la pantalla bloqueada
